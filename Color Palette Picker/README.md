@@ -1,4 +1,4 @@
-# Color Palette Picker
+# Color Palette Picker - # Student Planner App - Main Version
 A web application that generates a color palette and allows users to pick and copy colors easily.
 
 ## Features
